@@ -1,0 +1,1 @@
+Discover the power of accurate weather detection with our project, utilizing advanced technologies to predict, monitor, and analyze weather patterns for better decision-making and enhanced preparedness
